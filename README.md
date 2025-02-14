@@ -13,6 +13,8 @@
 
 ## I contribute to projects
 
+- [OpenBuild official website](https://github.com/openbuildxyz/openbuild-frontend)
+
 - [The official website for SWR](https://github.com/vercel/swr-site)
 
 ## My GitHub Dashboard
